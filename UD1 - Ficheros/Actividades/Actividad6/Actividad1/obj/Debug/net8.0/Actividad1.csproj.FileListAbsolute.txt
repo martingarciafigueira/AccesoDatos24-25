@@ -1,0 +1,43 @@
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.exe
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.deps.json
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\bin\Debug\net8.0\Actividad1.pdb
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\refint\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.pdb
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\Actividad1.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad1\Actividad1\obj\Debug\net8.0\ref\Actividad1.dll
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\bin\Debug\net8.0\Actividad1.exe
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\bin\Debug\net8.0\Actividad1.deps.json
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\bin\Debug\net8.0\Actividad1.runtimeconfig.json
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\bin\Debug\net8.0\Actividad1.dll
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\bin\Debug\net8.0\Actividad1.pdb
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\Actividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfoInputs.cache
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfo.cs
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\Actividad1.csproj.CoreCompileInputs.cache
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\Actividad1.sourcelink.json
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\Actividad1.dll
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\refint\Actividad1.dll
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\Actividad1.pdb
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\Actividad1.genruntimeconfig.cache
+C:\Repositorios GitHub\AccesoDatos24-25\UD1 - Ficheros\Actividades\Actividad2\Actividad1\obj\Debug\net8.0\ref\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\bin\Debug\net8.0\Actividad1.exe
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\bin\Debug\net8.0\Actividad1.deps.json
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\bin\Debug\net8.0\Actividad1.runtimeconfig.json
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\bin\Debug\net8.0\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\bin\Debug\net8.0\Actividad1.pdb
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\obj\Debug\net8.0\Actividad1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfoInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfo.cs
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\obj\Debug\net8.0\Actividad1.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\obj\Debug\net8.0\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\obj\Debug\net8.0\refint\Actividad1.dll
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\obj\Debug\net8.0\Actividad1.pdb
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\obj\Debug\net8.0\Actividad1.genruntimeconfig.cache
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\24-25\Actividad6\Actividad1\obj\Debug\net8.0\ref\Actividad1.dll

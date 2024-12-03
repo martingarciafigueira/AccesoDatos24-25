@@ -1,0 +1,12 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.deps.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.runtimeconfig.dev.json
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\bin\Debug\netcoreapp3.1\Ejercicio4.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfoInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.AssemblyInfo.cs
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.dll
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema01 - Ficheros\Ejercicios\Boletin1\Ejercicio4\obj\Debug\netcoreapp3.1\Ejercicio4.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\bin\Debug\Actividad11.exe.config
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\bin\Debug\Actividad11.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\bin\Debug\Actividad11.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\obj\Debug\Actividad11.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\obj\Debug\Actividad11.csproj.SuggestedBindingRedirects.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\obj\Debug\Actividad11.Form1.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\obj\Debug\Actividad11.Properties.Resources.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\obj\Debug\Actividad11.csproj.GenerateResource.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\obj\Debug\Actividad11.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\obj\Debug\Actividad11.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD1 - Ficheros\Actividades\23-24\Actividad11\Actividad11\obj\Debug\Actividad11.pdb

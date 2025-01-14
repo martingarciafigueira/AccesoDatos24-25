@@ -1,0 +1,10 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\bin\Debug\Actividad6.exe.config
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\bin\Debug\Actividad6.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\bin\Debug\Actividad6.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\obj\Debug\Actividad6.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\obj\Debug\Actividad6.Form1.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\obj\Debug\Actividad6.Properties.Resources.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\obj\Debug\Actividad6.csproj.GenerateResource.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\obj\Debug\Actividad6.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\obj\Debug\Actividad6.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD3 - Trabajando con SQL Server\Actividades\23-24\Actividad6\Actividad6\obj\Debug\Actividad6.pdb

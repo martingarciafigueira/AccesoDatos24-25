@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{434D03B6-FD70-442F-93B0-385049BC98C4}|Actividad6\\Ejercicio.csproj|I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio8\\actividad6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{434D03B6-FD70-442F-93B0-385049BC98C4}|Actividad6\\Ejercicio.csproj|solutionrelative:actividad6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434D03B6-FD70-442F-93B0-385049BC98C4}|Actividad6\\Ejercicio.csproj|i:\\dropbox\\clases\\montecastelo\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud3 - trabajando con sql server\\ejercicios\\tema3\\ejercicio8\\actividad6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434D03B6-FD70-442F-93B0-385049BC98C4}|Actividad6\\Ejercicio.csproj|solutionrelative:actividad6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{434D03B6-FD70-442F-93B0-385049BC98C4}|Actividad6\\Ejercicio.csproj|I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio8\\actividad6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{434D03B6-FD70-442F-93B0-385049BC98C4}|Actividad6\\Ejercicio.csproj|solutionrelative:actividad6\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio8\\Actividad6\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Actividad6\\Form1.Designer.cs",
+              "ToolTip": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio8\\Actividad6\\Form1.Designer.cs",
+              "RelativeToolTip": "Actividad6\\Form1.Designer.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:28:50.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio8\\Actividad6\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad6\\Form1.cs",
+              "ToolTip": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio8\\Actividad6\\Form1.cs",
+              "RelativeToolTip": "Actividad6\\Form1.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAswE4AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:27:35.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio8\\Actividad6\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad6\\Form1.cs",
+              "ToolTip": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio8\\Actividad6\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad6\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:24:58.286Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

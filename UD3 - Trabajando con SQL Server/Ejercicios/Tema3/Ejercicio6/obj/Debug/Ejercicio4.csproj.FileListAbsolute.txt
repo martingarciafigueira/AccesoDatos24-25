@@ -1,0 +1,10 @@
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\bin\Debug\Ejercicio3.exe.config
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\bin\Debug\Ejercicio3.exe
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\bin\Debug\Ejercicio3.pdb
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\obj\Debug\Ejercicio4.csproj.AssemblyReference.cache
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\obj\Debug\Ejercicio3.Form1.resources
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\obj\Debug\Ejercicio4.csproj.GenerateResource.cache
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\obj\Debug\Ejercicio4.csproj.CoreCompileInputs.cache
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\obj\Debug\Ejercicio3.exe
+C:\Repositorios GitHub\AccesoDatos23-24\UD3 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio4\obj\Debug\Ejercicio3.pdb

@@ -1,0 +1,9 @@
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema03 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema03 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio2\bin\Debug\Ejercicio2.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema03 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio2\bin\Debug\Ejercicio2.pdb
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema03 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio2\obj\Debug\Ejercicio2.Form1.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema03 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio2\obj\Debug\Ejercicio2.Properties.Resources.resources
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema03 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio2\obj\Debug\Ejercicio2.csproj.GenerateResource.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema03 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema03 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio2\obj\Debug\Ejercicio2.exe
+G:\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\Tema03 - Trabajando con SQL Server\Ejercicios\Tema3\Ejercicio2\obj\Debug\Ejercicio2.pdb

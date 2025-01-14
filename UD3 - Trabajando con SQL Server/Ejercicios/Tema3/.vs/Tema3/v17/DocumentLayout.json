@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C9E89F-845A-483A-B86F-A58BBFF179D0}|Ejercicio7\\Ejercicio7.csproj|i:\\dropbox\\clases\\montecastelo\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud3 - trabajando con sql server\\ejercicios\\tema3\\ejercicio7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C5C9E89F-845A-483A-B86F-A58BBFF179D0}|Ejercicio7\\Ejercicio7.csproj|solutionrelative:ejercicio7\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio7\\Form1.cs",
+              "RelativeDocumentMoniker": "Ejercicio7\\Form1.cs",
+              "ToolTip": "I:\\Dropbox\\Clases\\Montecastelo\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Ejercicios\\Tema3\\Ejercicio7\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Ejercicio7\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:20:52.271Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

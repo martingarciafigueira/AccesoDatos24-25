@@ -1,0 +1,11 @@
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe.config
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.exe
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\bin\Debug\Ejercicio3.pdb
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.AssemblyReference.cache
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.SuggestedBindingRedirects.cache
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Form1.resources
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.Properties.Resources.resources
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.GenerateResource.cache
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.exe
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio3\Ejercicio3\obj\Debug\Ejercicio3.pdb

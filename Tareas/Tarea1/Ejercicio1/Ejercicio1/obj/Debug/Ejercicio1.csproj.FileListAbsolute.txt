@@ -1,0 +1,26 @@
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.FormUpdate.resources
+C:\Users\brais\Desktop\BraisM - Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.FormSave.resources
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Form1.resources
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.FormSave.resources
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.FormUpdate.resources
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.Properties.Resources.resources
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.GenerateResource.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\MESACOCINA\Desktop\Tarea1\Tarea1\Ejercicio1\Ejercicio1\obj\Debug\Ejercicio1.pdb

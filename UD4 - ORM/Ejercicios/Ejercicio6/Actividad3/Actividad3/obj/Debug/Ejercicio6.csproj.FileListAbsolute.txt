@@ -1,0 +1,13 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\bin\Debug\Actividad3.exe.config
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\bin\Debug\Actividad3.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\bin\Debug\Actividad3.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\bin\Debug\Dapper.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\bin\Debug\Dapper.xml
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\obj\Debug\Ejercicio6.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\obj\Debug\Actividad3.Form1.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\obj\Debug\Actividad3.Properties.Resources.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\obj\Debug\Ejercicio6.csproj.GenerateResource.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\obj\Debug\Ejercicio6.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\obj\Debug\Ejercicio6.csproj.CopyComplete
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\obj\Debug\Actividad3.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Ejercicios\Ejercicio6\Actividad3\Actividad3\obj\Debug\Actividad3.pdb

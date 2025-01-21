@@ -1,0 +1,13 @@
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe.config
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\bin\Debug\Ejercicio.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\bin\Debug\Dapper.dll
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\bin\Debug\Dapper.xml
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Form1.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\obj\Debug\Ejercicio.Properties.Resources.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.GenerateResource.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\obj\Debug\Ejercicio.csproj.CopyComplete
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\obj\Debug\Ejercicio.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAM\2º DAM\ACCESO A DATOS\Temario\UD5 - ORM\Actividades\23-24\Ejercicio\Ejercicio\obj\Debug\Ejercicio.pdb

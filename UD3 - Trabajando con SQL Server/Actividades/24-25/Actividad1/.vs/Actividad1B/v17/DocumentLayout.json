@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1B\\",
+  "WorkspaceRootPath": "C:\\Repositorios GitHub\\AccesoDatos24-25\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B1DF8BC-BF6F-46E0-B821-CDA393E17F38}|Actividad1B\\Actividad1B.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud3 - trabajando con sql server\\actividades\\24-25\\actividad1b\\actividad1b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3B1DF8BC-BF6F-46E0-B821-CDA393E17F38}|Actividad1B\\Actividad1B.csproj|solutionrelative:actividad1b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3B1DF8BC-BF6F-46E0-B821-CDA393E17F38}|Actividad1B\\Actividad1B.csproj|C:\\Repositorios GitHub\\AccesoDatos24-25\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1\\actividad1b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B1DF8BC-BF6F-46E0-B821-CDA393E17F38}|Actividad1B\\Actividad1B.csproj|solutionrelative:actividad1b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B1DF8BC-BF6F-46E0-B821-CDA393E17F38}|Actividad1B\\Actividad1B.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud3 - trabajando con sql server\\actividades\\24-25\\actividad1b\\actividad1b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3B1DF8BC-BF6F-46E0-B821-CDA393E17F38}|Actividad1B\\Actividad1B.csproj|solutionrelative:actividad1b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{3B1DF8BC-BF6F-46E0-B821-CDA393E17F38}|Actividad1B\\Actividad1B.csproj|c:\\repositorios github\\accesodatos24-25\\ud3 - trabajando con sql server\\actividades\\24-25\\actividad1\\actividad1b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1DF8BC-BF6F-46E0-B821-CDA393E17F38}|Actividad1B\\Actividad1B.csproj|solutionrelative:actividad1b\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1B\\Actividad1B\\Form1.cs",
+              "DocumentMoniker": "C:\\Repositorios GitHub\\AccesoDatos24-25\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1\\Actividad1B\\Form1.cs",
               "RelativeDocumentMoniker": "Actividad1B\\Form1.cs",
-              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1B\\Actividad1B\\Form1.cs",
+              "ToolTip": "C:\\Repositorios GitHub\\AccesoDatos24-25\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1\\Actividad1B\\Form1.cs",
               "RelativeToolTip": "Actividad1B\\Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T16:38:01.209Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1B\\Actividad1B\\Form1.cs",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Repositorios GitHub\\AccesoDatos24-25\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1\\Actividad1B\\Form1.cs",
               "RelativeDocumentMoniker": "Actividad1B\\Form1.cs",
-              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1B\\Actividad1B\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Actividad1B\\Form1.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Repositorios GitHub\\AccesoDatos24-25\\UD3 - Trabajando con SQL Server\\Actividades\\24-25\\Actividad1\\Actividad1B\\Form1.cs [Design]",
+              "RelativeToolTip": "Actividad1B\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T16:37:27.706Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "EditorCaption": " [Design]"
             }
           ]
         }

@@ -1,0 +1,39 @@
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\Tarea2.exe.config
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\Tarea2.exe
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\Tarea2.pdb
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.Form1.resources
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.csproj.CopyComplete
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.exe
+D:\CARPETA_MONTECASTELO\DAM\Curso 23-24\Acceso a Datos\Tareas\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.Form1.resources
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.csproj.CopyComplete
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\MARTIN\Desktop\PereyraDizDanteAlejoTarea2\Tarea2\obj\Debug\Tarea2.pdb
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\bin\Debug\Tarea2.exe.config
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\bin\Debug\Tarea2.exe
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\bin\Debug\Tarea2.pdb
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\obj\Debug\Tarea2.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\obj\Debug\Tarea2.Form1.resources
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\obj\Debug\Tarea2.Properties.Resources.resources
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\obj\Debug\Tarea2.csproj.GenerateResource.cache
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\obj\Debug\Tarea2.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\obj\Debug\Tarea2.csproj.Up2Date
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\obj\Debug\Tarea2.exe
+C:\Users\MARTIN\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\24-25\Soluciones\Tarea2\obj\Debug\Tarea2.pdb

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "I:\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD4 - ORM\\Actividades\\24-25\\Actividad9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{808794F3-CA90-4C59-B3BE-28AD81609166}|Actividad3\\Actividad9.csproj|i:\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud4 - orm\\actividades\\24-25\\actividad9\\actividad3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{808794F3-CA90-4C59-B3BE-28AD81609166}|Actividad3\\Actividad9.csproj|solutionrelative:actividad3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808794F3-CA90-4C59-B3BE-28AD81609166}|Actividad3\\Actividad9.csproj|i:\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud4 - orm\\actividades\\24-25\\actividad9\\actividad3\\clases\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808794F3-CA90-4C59-B3BE-28AD81609166}|Actividad3\\Actividad9.csproj|solutionrelative:actividad3\\clases\\equipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808794F3-CA90-4C59-B3BE-28AD81609166}|Actividad3\\Actividad9.csproj|i:\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud4 - orm\\actividades\\24-25\\actividad9\\actividad3\\clases\\futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808794F3-CA90-4C59-B3BE-28AD81609166}|Actividad3\\Actividad9.csproj|solutionrelative:actividad3\\clases\\futbolista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808794F3-CA90-4C59-B3BE-28AD81609166}|Actividad3\\Actividad9.csproj|i:\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud4 - orm\\actividades\\24-25\\actividad9\\actividad3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808794F3-CA90-4C59-B3BE-28AD81609166}|Actividad3\\Actividad9.csproj|solutionrelative:actividad3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "I:\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD4 - ORM\\Actividades\\24-25\\Actividad9\\Actividad3\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad3\\Form1.cs",
+              "ToolTip": "I:\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD4 - ORM\\Actividades\\24-25\\Actividad9\\Actividad3\\Form1.cs",
+              "RelativeToolTip": "Actividad3\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwIEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:36:57.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "I:\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD4 - ORM\\Actividades\\24-25\\Actividad9\\Actividad3\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad3\\Form1.cs",
+              "ToolTip": "I:\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD4 - ORM\\Actividades\\24-25\\Actividad9\\Actividad3\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad3\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:36:51.088Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Futbolista.cs",
+              "DocumentMoniker": "I:\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD4 - ORM\\Actividades\\24-25\\Actividad9\\Actividad3\\Clases\\Futbolista.cs",
+              "RelativeDocumentMoniker": "Actividad3\\Clases\\Futbolista.cs",
+              "ToolTip": "I:\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD4 - ORM\\Actividades\\24-25\\Actividad9\\Actividad3\\Clases\\Futbolista.cs",
+              "RelativeToolTip": "Actividad3\\Clases\\Futbolista.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:35:23.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Equipo.cs",
+              "DocumentMoniker": "I:\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD4 - ORM\\Actividades\\24-25\\Actividad9\\Actividad3\\Clases\\Equipo.cs",
+              "RelativeDocumentMoniker": "Actividad3\\Clases\\Equipo.cs",
+              "ToolTip": "I:\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD4 - ORM\\Actividades\\24-25\\Actividad9\\Actividad3\\Clases\\Equipo.cs",
+              "RelativeToolTip": "Actividad3\\Clases\\Equipo.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:29:48.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

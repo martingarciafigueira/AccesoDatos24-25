@@ -1,0 +1,15 @@
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\bin\Debug\Actividad3.exe.config
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\bin\Debug\Actividad3.exe
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\bin\Debug\Actividad3.pdb
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\bin\Debug\Dapper.Contrib.dll
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\bin\Debug\Dapper.dll
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\bin\Debug\Dapper.xml
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\bin\Debug\Dapper.Contrib.xml
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\obj\Debug\Actividad9.csproj.AssemblyReference.cache
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\obj\Debug\Actividad3.Form1.resources
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\obj\Debug\Actividad3.Properties.Resources.resources
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\obj\Debug\Actividad9.csproj.GenerateResource.cache
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\obj\Debug\Actividad9.csproj.CoreCompileInputs.cache
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\obj\Debug\Actividad9.csproj.Up2Date
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\obj\Debug\Actividad3.exe
+I:\Dropbox\Clases\CS\DAW-DAM\2º DAM\ACCESO A DATOS\Temario\UD4 - ORM\Actividades\24-25\Actividad9\Actividad3\obj\Debug\Actividad3.pdb

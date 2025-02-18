@@ -1,0 +1,270 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\completa\\actividadnhibernate\\servicios\\irepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\servicios\\irepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\completa\\actividadnhibernate\\servicios\\asignaturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\servicios\\asignaturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\completa\\actividadnhibernate\\servicios\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\servicios\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\completa\\actividadnhibernate\\configuraciones\\nhibernateutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\configuraciones\\nhibernateutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\completa\\actividadnhibernate\\servicios\\institutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\servicios\\institutoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\completa\\actividadnhibernate\\servicios\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\servicios\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\completa\\actividadnhibernate\\entidades\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\entidades\\asignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\actividadnhibernate\\entidades\\instituto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\entidades\\instituto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\actividadnhibernate\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\entidades\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\actividadnhibernate\\vistas\\listformestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\vistas\\listformestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\actividadnhibernate\\vistas\\listformestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\vistas\\listformestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\actividadnhibernate\\vistas\\formestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\vistas\\formestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\actividadnhibernate\\vistas\\formestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\vistas\\formestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\actividadnhibernate\\vistas\\frmgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\vistas\\frmgeneral.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\actividadnhibernate\\vistas\\listformasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{14142E59-9104-4D77-AE72-3B85789E3F03}|ActividadNHibernate\\ActividadNHibernate.csproj|solutionrelative:actividadnhibernate\\vistas\\listformasignatura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\IRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Servicios\\IRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\IRepositoryImpl.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Servicios\\IRepositoryImpl.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:57:18.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\IRepository.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Servicios\\IRepository.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\IRepository.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Servicios\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:57:16.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InstitutoService.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\InstitutoService.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Servicios\\InstitutoService.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\InstitutoService.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Servicios\\InstitutoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:55:43.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\EstudianteService.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Servicios\\EstudianteService.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\EstudianteService.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Servicios\\EstudianteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:55:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AsignaturaService.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\AsignaturaService.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Servicios\\AsignaturaService.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Servicios\\AsignaturaService.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Servicios\\AsignaturaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:55:37.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NHibernateUtil.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Configuraciones\\NHibernateUtil.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Configuraciones\\NHibernateUtil.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Configuraciones\\NHibernateUtil.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Configuraciones\\NHibernateUtil.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:55:19.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Instituto.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Entidades\\Instituto.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Entidades\\Instituto.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Entidades\\Instituto.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Entidades\\Instituto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:30:16.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Entidades\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Entidades\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Entidades\\Estudiante.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Entidades\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:30:13.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asignatura.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Entidades\\Asignatura.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Entidades\\Asignatura.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Entidades\\Asignatura.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Entidades\\Asignatura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:30:11.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListFormEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\ListFormEstudiante.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Vistas\\ListFormEstudiante.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\ListFormEstudiante.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Vistas\\ListFormEstudiante.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAuwDcAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:19:21.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\FormEstudiante.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Vistas\\FormEstudiante.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\FormEstudiante.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Vistas\\FormEstudiante.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwEkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:16:51.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\FormEstudiante.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Vistas\\FormEstudiante.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\FormEstudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadNHibernate\\Vistas\\FormEstudiante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:16:21.889Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListFormEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\ListFormEstudiante.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Vistas\\ListFormEstudiante.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\ListFormEstudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadNHibernate\\Vistas\\ListFormEstudiante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:00:46.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmGeneral.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\frmGeneral.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Vistas\\frmGeneral.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\frmGeneral.cs",
+              "RelativeToolTip": "ActividadNHibernate\\Vistas\\frmGeneral.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvzUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T12:00:22.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ListFormAsignatura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\ListFormAsignatura.cs",
+              "RelativeDocumentMoniker": "ActividadNHibernate\\Vistas\\ListFormAsignatura.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Completa\\ActividadNHibernate\\Vistas\\ListFormAsignatura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "ActividadNHibernate\\Vistas\\ListFormAsignatura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:41:53.171Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

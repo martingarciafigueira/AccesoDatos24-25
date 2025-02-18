@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Actividad5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB429505-6ED4-44E0-9836-0DC6159E9299}|Actividad1\\Actividad5.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\actividad5\\actividad1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB429505-6ED4-44E0-9836-0DC6159E9299}|Actividad1\\Actividad5.csproj|solutionrelative:actividad1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB429505-6ED4-44E0-9836-0DC6159E9299}|Actividad1\\Actividad5.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\actividad5\\actividad1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AB429505-6ED4-44E0-9836-0DC6159E9299}|Actividad1\\Actividad5.csproj|solutionrelative:actividad1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB429505-6ED4-44E0-9836-0DC6159E9299}|Actividad1\\Actividad5.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\actividad5\\actividad1\\servicios\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB429505-6ED4-44E0-9836-0DC6159E9299}|Actividad1\\Actividad5.csproj|solutionrelative:actividad1\\servicios\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB429505-6ED4-44E0-9836-0DC6159E9299}|Actividad1\\Actividad5.csproj|c:\\users\\martin\\dropbox\\clases\\cs\\daw-dam\\2\u00BA dam\\acceso a datos\\temario\\ud5 - nhibernate\\actividades\\24-25\\actividad5\\actividad1\\servicios\\irepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB429505-6ED4-44E0-9836-0DC6159E9299}|Actividad1\\Actividad5.csproj|solutionrelative:actividad1\\servicios\\irepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Actividad5\\Actividad1\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad1\\Form1.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Actividad5\\Actividad1\\Form1.cs",
+              "RelativeToolTip": "Actividad1\\Form1.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwBwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:47:02.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Actividad5\\Actividad1\\Form1.cs",
+              "RelativeDocumentMoniker": "Actividad1\\Form1.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Actividad5\\Actividad1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Actividad1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:47:00.7Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepositoryImpl.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Actividad5\\Actividad1\\Servicios\\IRepositoryImpl.cs",
+              "RelativeDocumentMoniker": "Actividad1\\Servicios\\IRepositoryImpl.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Actividad5\\Actividad1\\Servicios\\IRepositoryImpl.cs",
+              "RelativeToolTip": "Actividad1\\Servicios\\IRepositoryImpl.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAArwEsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:37:57.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Actividad5\\Actividad1\\Servicios\\IRepository.cs",
+              "RelativeDocumentMoniker": "Actividad1\\Servicios\\IRepository.cs",
+              "ToolTip": "C:\\Users\\MARTIN\\Dropbox\\Clases\\CS\\DAW-DAM\\2\u00BA DAM\\ACCESO A DATOS\\Temario\\UD5 - NHibernate\\Actividades\\24-25\\Actividad5\\Actividad1\\Servicios\\IRepository.cs",
+              "RelativeToolTip": "Actividad1\\Servicios\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T18:36:25.045Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

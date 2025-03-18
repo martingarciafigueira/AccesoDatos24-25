@@ -1,0 +1,96 @@
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.AssemblyReference.cache
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Properties.Resources.resources
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.GenerateResource.cache
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe.config
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.pdb
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.pdb
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Combate.resources
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.FormMenuPrincipal.resources
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.TiendaPrincipal.resources
+C:\Users\jose\Documents\git\AccesoDatos\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.CentroPokemonMenu.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe.config
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.pdb
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.AssemblyReference.cache
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Combate.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.CentroPokemonMenu.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.FormMenuPrincipal.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Properties.Resources.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.TiendaPrincipal.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.GenerateResource.cache
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.pdb
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe.config
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.pdb
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.AssemblyReference.cache
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Combate.resources
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.CentroPokemonMenu.resources
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.FormMenuPrincipal.resources
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Properties.Resources.resources
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.TiendaPrincipal.resources
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.GenerateResource.cache
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Desktop\AlonsoRiveiroJoseTarea1\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.pdb
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe.config
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.pdb
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.AssemblyReference.cache
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Combate.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.CentroPokemonMenu.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.FormMenuPrincipal.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Properties.Resources.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.TiendaPrincipal.resources
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.GenerateResource.cache
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Desktop\Nueva carpeta\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.pdb
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe.config
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.pdb
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.AssemblyReference.cache
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Combate.resources
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.CentroPokemonMenu.resources
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.FormMenuPrincipal.resources
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Properties.Resources.resources
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.TiendaPrincipal.resources
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.GenerateResource.cache
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.exe
+C:\Users\jose\Downloads\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.pdb
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe.config
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.pdb
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Combate.resources
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.CentroPokemonMenu.resources
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.FormMenuPrincipal.resources
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Properties.Resources.resources
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.TiendaPrincipal.resources
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.GenerateResource.cache
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.exe
+C:\Users\MARTIN\Desktop\AlonsoRiveiroJoseTarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.AssemblyReference.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Combate.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.CentroPokemonMenu.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.FormMenuPrincipal.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.Properties.Resources.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.TiendaPrincipal.resources
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.GenerateResource.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\obj\Debug\Tarea03Pokemon.pdb
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe.config
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.exe
+C:\Users\MARTIN\Dropbox\Clases\Montecastelo\DAW-DAM\2º DAM\ACCESO A DATOS\Tareas\23-24\Soluciones\Tarea3\Tarea03Pokemon\bin\Debug\Tarea03Pokemon.pdb

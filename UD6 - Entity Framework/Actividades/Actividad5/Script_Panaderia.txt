@@ -1,0 +1,13 @@
+CREATE DATABASE PanaderiaDB;
+GO
+
+USE PanaderiaDB;
+GO
+
+CREATE TABLE Producto (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Nombre NVARCHAR(100) NOT NULL,
+    Precio DECIMAL(10,2) NOT NULL,
+    Stock INT NOT NULL
+);
+GO

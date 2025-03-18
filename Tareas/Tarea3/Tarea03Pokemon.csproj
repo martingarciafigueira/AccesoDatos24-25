@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EB81714E-17A4-44F0-A1B7-8656F2690C3F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Tarea03Pokemon</RootNamespace>
+    <AssemblyName>Tarea03Pokemon</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\CadenasSql.cs" />
+    <Compile Include="Clases\CentroPokemon.cs" />
+    <Compile Include="Clases\Modelos\Entrenador.cs" />
+    <Compile Include="Clases\Modelos\Evoluciones.cs" />
+    <Compile Include="Clases\Modelos\Tipos.cs" />
+    <Compile Include="Clases\Modelos\Movimientos.cs" />
+    <Compile Include="Clases\Modelos\Pokemon.cs" />
+    <Compile Include="Clases\PokemonDatabase.cs" />
+    <Compile Include="Combate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Combate.Designer.cs">
+      <DependentUpon>Combate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CentroPokemonMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CentroPokemonMenu.Designer.cs">
+      <DependentUpon>CentroPokemonMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenuPrincipal.Designer.cs">
+      <DependentUpon>FormMenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TiendaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TiendaPrincipal.Designer.cs">
+      <DependentUpon>TiendaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tienda\Clases\Modelos\Fabricante.cs" />
+    <Compile Include="Tienda\Clases\Modelos\Producto.cs" />
+    <Compile Include="Tienda\Database\CadenasSql.cs" />
+    <Compile Include="Tienda\Database\FabricanteDatabase.cs" />
+    <Compile Include="Tienda\MainTienda.cs" />
+    <EmbeddedResource Include="Combate.resx">
+      <DependentUpon>Combate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CentroPokemonMenu.resx">
+      <DependentUpon>CentroPokemonMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenuPrincipal.resx">
+      <DependentUpon>FormMenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="TiendaPrincipal.resx">
+      <DependentUpon>TiendaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
